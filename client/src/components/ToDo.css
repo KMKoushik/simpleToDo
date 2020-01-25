@@ -1,0 +1,23 @@
+button {
+  background-color: green;
+  border: none;
+  color: white;
+  height: 30px;
+  width: 70px;
+  margin: 10px;
+  border-radius: 3px;
+  padding: 5px;
+  cursor: pointer;
+}
+
+input {
+  height: 20px;
+  border-radius: 3px;
+  padding: 5px;
+  outline: none;
+  border: 1px solid #ccc;
+}
+
+input:focus {
+  border: 1px solid green;
+}
